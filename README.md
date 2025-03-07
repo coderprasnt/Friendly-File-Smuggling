@@ -47,4 +47,4 @@ This project is for educational purposes only. The authors are not responsible f
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/coderprasnt)
+Made with ❤️ by [Prasanna](https://github.com/coderprasnt)
